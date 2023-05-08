@@ -1000,7 +1000,7 @@ https://webudit.salamus1.lol/lb/premium498/index.m3u8?|referer=https://olacast.l
 https://webudit.salamus1.lol/lb/premium499/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,500
 https://webudit.salamus1.lol/lb/premium500/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,501
+#EXTINF:-1 password="12345",501
 https://webudit.salamus1.lol/lb/premium501/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,502
 https://webudit.salamus1.lol/lb/premium502/index.m3u8?|referer=https://olacast.live/&e.m3u8
